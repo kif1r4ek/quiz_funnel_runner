@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime output — generated on each run
+# results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.claude
+results/
+
+# Secrets
+.env
